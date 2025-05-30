@@ -4,7 +4,7 @@
 
 ## ❓ Nasıl Oynanır?
 > Oyunda aynı renkteki sıvılar birbirleri üzerine gelmelidir bu işlemler yapılırken yerleştirilecek sıvıların şişenin mümkün olan en alt kısmına ve yalnızca aynı renkteki sıvıların üzerine yerleştirilmesi gerektiği unutulmamalıdır. Tüm bu kurallara uygun işlemler yapıldığında en son 'Kontrol Et' butonuna basılır ve bu şekilde oyun tamamlanmış olunur.
-> Oyunu oynamak için proje klasörünün altındaki src klasörü içerisinde, renklerOyunu paketinde yer alan Test.java dosyasını herhangi bir Java programlama dili derleyicisinde çalıştırmanız yeterli olacaktır. İyi oyunlar.
+* Oyunu oynamak için proje klasörünün altındaki src klasörü içerisinde, renklerOyunu paketinde yer alan Test.java dosyasını herhangi bir Java programlama dili derleyicisinde çalıştırmanız yeterli olacaktır. İyi oyunlar.
 
 ## 🖼️ Oyundan Görüntüler
 
