@@ -5,12 +5,12 @@
 ## 🖼️ Oyundan Görüntüler
 
 ### Oyunun Başlangıç Arayüzü
-<img src="OyunResimleri/Resim 1.jpg" width="300" alt="Resim 1 Açıklaması">
+<img src="OyunResimleri/Resim 1.png" width="300" alt="Resim 1 Açıklaması">
 
 ### Oyun Kurallarının Yanlış Uygulanması Sonucu Kullanıcıya Verilen Mesajlar
-<img src="OyunResimleri/Resim 2.jpg" width="300" alt="Resim 1 Açıklaması">
-<img src="OyunResimleri/Resim 3.jpg" width="300" alt="Resim 1 Açıklaması">
-<img src="OyunResimleri/Resim 4.jpg" width="300" alt="Resim 1 Açıklaması">
+<img src="OyunResimleri/Resim 2.png" width="300" alt="Resim 1 Açıklaması">
+<img src="OyunResimleri/Resim 3.png" width="300" alt="Resim 1 Açıklaması">
+<img src="OyunResimleri/Resim 4.png" width="300" alt="Resim 1 Açıklaması">
 
 ## 🎮 Özellikler
 
