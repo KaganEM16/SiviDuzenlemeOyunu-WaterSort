@@ -14,6 +14,8 @@
 ### Oyun Kurallarının Yanlış Uygulanması Sonucu Kullanıcıya Verilen Mesajlar
 <img src="OyunResimleri/Resim 2.png" width="500" alt="Resim 1 Açıklaması">
 <img src="OyunResimleri/Resim 3.png" width="500" alt="Resim 1 Açıklaması">
+
+### Oyunun Başarıyla Tamamlanması Sonucu Kullanıcıya Verilen Mesaj
 <img src="OyunResimleri/Resim 4.png" width="500" alt="Resim 1 Açıklaması">
 
 ## 🎮 Özellikler
